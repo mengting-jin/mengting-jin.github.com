@@ -1,8 +1,8 @@
 
 ### Personal information
-Name: Mengting Jin                                                      
-Email: jinm@natur.cuni.cz
-Address: Department of Physical and Macromolecular Chemistry, Faculty of Science, Charles University, Hlavova 8, 128 43, Praha 2
+- Name: Mengting Jin                                                      
+- Email: jinm@natur.cuni.cz
+- Address: Department of Physical and Macromolecular Chemistry, Faculty of Science, Charles University, Hlavova 8, 128 43, Praha 2
 
 
 ### Education and work experience
