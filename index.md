@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mengting-jin/mengting-jin.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Personal information
+Name: Mengting Jin                                                      
+Email: jinm@natur.cuni.cz
+Address: Department of Physical and Macromolecular Chemistry, Faculty of Science, Charles University, Hlavova 8, 128 43, Praha 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education and work experience
+- 09/2017-present, Ph.D in Department of Physical and Macromolecular Chemistry, Faculty of Science, Charles University, Czech Republic
+- 07/2015-07/2017, Research Assistant, Chengdu green energy and green manufacturing technology R&D center
+- 07/2014-02/2015, Exchange Student, School of materials science and engineering, Nanyang Technological University, Singapore
+- 09/2012-06/2015, Master in Condensed Matter Physics, Department of physics, Xiangtan University, China
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research topics
+- Theoretical investigation of novel 3D and 2D materials
+- Modeling of Chemical Properties of Nano- and Biostructures 
+- Group website: [http://www.cucam.cuni.cz/](http://www.cucam.cuni.cz/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mengting-jin/mengting-jin.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Publications
+[https://www.researchgate.net/profile/Mengting_Jin3](https://www.researchgate.net/profile/Mengting_Jin3)
